@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JS,**
 
-- 👯 I’m looking to collaborate on [SOPHIE2.0](https://github.com/anirudhsudheer/SOPHIE-2.0)
+- 👯 I’m looking to collaborate on [SOPHIE2.0](https://github.com/anirudhsudheer/Eva)
 
-- 🤝 I’m looking for help with [SOPHIE2.0](https://github.com/anirudhsudheer/SOPHIE-2.0)
+- 🤝 I’m looking for help with [SOPHIE2.0](https://github.com/anirudhsudheer/Eva)
 
 - 💬 Ask me about **ME**
 
-- 📫 How to reach me **anirudhsudheer@gmail.com / wa.me/919539102851**
+- 📫 How to reach me **anirudhsudheer@gmail.com / https://wa.me/919539102851**
 
 - ⚡ Fun fact **I THINK IAM VERY POSITIVE**
 
