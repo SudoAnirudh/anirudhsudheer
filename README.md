@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ani_rudh_s" target="blank"><img src="https://img.shields.io/twitter/follow/ani_rudh_s?logo=twitter&style=for-the-badge" alt="ani_rudh_s" /></a> </p>
 
-- 🔭 I’m currently working on [SOPHIE2.0](https://github.com/anirudhsudheer/SOPHIE-2.0)
+- 🔭 I’m currently working on [Eva](https://github.com/anirudhsudheer/SOPHIE-2.0)
 
 - 🌱 I’m currently learning **HTML,CSS,JS,**
 
-- 👯 I’m looking to collaborate on [SOPHIE2.0](https://github.com/anirudhsudheer/Eva)
+- 👯 I’m looking to collaborate on [Eva](https://github.com/anirudhsudheer/Eva)
 
-- 🤝 I’m looking for help with [SOPHIE2.0](https://github.com/anirudhsudheer/Eva)
+- 🤝 I’m looking for help with [Eva](https://github.com/anirudhsudheer/Eva)
 
 - 💬 Ask me about **ME**
 
