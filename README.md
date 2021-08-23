@@ -1,38 +1,57 @@
-<h1 align="center">Hi 👋, I'm ANIRUDH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi I'm Anirudh&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhsudheer&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhsudheer" /> </p>
+![My card name](https://cardivo.vercel.app/api?name=Anirudh$S&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_a_n_i_r_u_d_h_&linkedin=_&github=SudoAnirudhL&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhsudheer" alt="anirudhsudheer" /></a> </p>
+- 🧑‍🏫 I’m currently working **EVA**
 
-<p align="left"> <a href="https://twitter.com/ani_rudh_s" target="blank"><img src="https://img.shields.io/twitter/follow/ani_rudh_s?logo=twitter&style=for-the-badge" alt="ani_rudh_s" /></a> </p>
+- 📖 I’m currently learning *ALL LANGUAGES**
 
-- 🔭 I’m currently working on [Eva](https://github.com/anirudhsudheer/SOPHIE-2.0)
+- 🕵️ I’m looking to collaborate with other **devs**
 
-- 🌱 I’m currently learning **HTML,CSS,JS,**
+- 👨‍💻 All of my projects are available at
+                   **[https:/SudoAnirudh.github=ropo-official](https://github.com/SudoAnirudh/anirudhsudher?tab=repositories)**
 
-- 👯 I’m looking to collaborate on [Eva](https://github.com/anirudhsudheer/Eva)
+- 💬 Ask me about: **Bots** and **Coding**
 
-- 🤝 I’m looking for help with [Eva](https://github.com/anirudhsudheer/Eva)
+-- 📫 How to reach me: 
 
-- 💬 Ask me about **ME**
+- 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
 
-- 📫 How to reach me **anirudhsudheer@gmail.com / https://wa.me/919539102851**
+- 🆓 Don't Forget To **[Follow Me](https://github.com/SudoAnirudh/anirudhsudhee)**
 
-- ⚡ Fun fact **I THINK IAM VERY POSITIVE**
+<p align="center"> <a href="Anirudh"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=SudoAnirudh&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Anirudh" /></a> </p><br> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ani_rudh_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ani_rudh_s" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007585924290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007585924290" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__a_n_i_r_u_d_h_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__a_n_i_r_u_d_h_/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=nightowl" alt="Anirudh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhsudheer&show_icons=true&locale=en&layout=compact" alt="anirudhsudheer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoAnirudh&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Anirudh"/></p></a><br> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhsudheer&show_icons=true&locale=en" alt="anirudhsudheer" /></p>
+##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhsudheer&" alt="anirudhsudheer" /></p>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SudoAnirudh)
+
+</details>
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/SudoAnirudh?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+</details>
+
+##
+
+## Another Pin Project
+<details>
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/SudoAnirudh/Eva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva">
+  </a>
+</details>
+
